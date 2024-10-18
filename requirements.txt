@@ -2,4 +2,4 @@ pdfplumber
 pytesseract
 Pillow
 PyMuPDF
-re
+
